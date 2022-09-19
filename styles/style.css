@@ -1,0 +1,33 @@
+body {
+  background-image: url(
+}
+
+.draggable {
+  width: 90px;
+  height: 90px;
+  padding: 0.5em;
+  float: left;
+  margin: 0 10px 10px 0;
+}
+
+#dogeHouse {
+  width: 95%;
+  height: 300px;
+  border: 2px solid #ccc;
+  padding: 10px;
+}
+
+h3,
+label,
+p {
+  background-color: #fff;
+}
+
+h3 {
+  color: green;
+  font-family: "Quicksand", sans-serif;
+}
+
+.card {
+  margin-top: 1rem;
+}
